@@ -1,1 +1,6 @@
 # Lab1_Ashesi_Premier_League_60932028
+
+Name: Shaun M Sibanda
+ID: 60932028
+Lab Number: 1
+
